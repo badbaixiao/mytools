@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/toolslib" />
             <option value="$PROJECT_DIR$/toolstest" />
+            <option value="$PROJECT_DIR$/toolstestdebug" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
